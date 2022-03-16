@@ -4,6 +4,6 @@
 
 But we're working on it, more to come 💻📱🔫.
 
-![Us working](https://giphy.com/gifs/life-bugs-programmer-2KAGlmkPywhZS)
+![Us working](https://github.com/lokals-team/.github/blob/main/profile/bugs.gif)
 
 
